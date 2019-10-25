@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="journey_planner_background">#B85ECE</color>
+    <color name="metro_map_background">#FBE373</color>
+    <color name="nearby_stations_background">#6CDA46</color>
+    <color name="routes_background">#64E7BA</color>
+    <color name="my_sample">#395F99</color>
+    <color name="my_sample_2">#294775</color>
+
+    <color name="ic_search_background">#6CDA46</color>
+    <color name="ic_share_background">#6CDA46</color>
+
+
+</resources>
