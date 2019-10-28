@@ -18,7 +18,9 @@
 
 
     <item
-        android:title="setting"
-        android:id="@+id/id_setting_menu"/>
+        android:title=""
+        android:icon="@mipmap/ic_navigation_icon"
+        app:showAsAction="ifRoom"
+        android:id="@+id/id_open_navig"/>
 
 </menu>

@@ -1,4 +1,4 @@
-package com.example.mymetroticketbooking.adapter.otheractivities;
+package com.example.mymetroticketbooking.otheractivity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;

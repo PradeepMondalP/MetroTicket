@@ -12,9 +12,8 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.mymetroticketbooking.R;
-import com.example.mymetroticketbooking.adapter.otheractivities.JourneyPlannerActivity;
+import com.example.mymetroticketbooking.otheractivity.JourneyPlannerActivity;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class MyImageTextAdapter extends RecyclerView.Adapter

@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:background="@color/my_sample"
     android:layout_height="match_parent"
-    tools:context=".adapter.otheractivities.JourneyPlannerActivity">
+    tools:context=".otheractivity.JourneyPlannerActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/id_toolbar_jp"

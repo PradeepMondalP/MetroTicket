@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:title="Routes"
+            android:id="@+id/id_routes"
+            android:icon="@mipmap/routes"/>
+
+        <item
+            android:title="Journey Planner"
+            android:id="@+id/id_journey_planner"
+            android:icon="@mipmap/journey_planner"/>
+
+        <item
+            android:title="Nearby Stations"
+            android:id="@+id/id_nearby_stations"
+            android:icon="@mipmap/nearby_stations"/>
+
+        <item
+            android:title="Rate us"
+            android:id="@+id/id_rate_us"
+            android:icon="@drawable/ic_star"/>
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+
+</menu>
